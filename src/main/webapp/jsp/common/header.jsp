@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    家常菜
+                  <b>宋正武的家常菜</b>
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
